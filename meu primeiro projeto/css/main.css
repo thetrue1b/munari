@@ -1,0 +1,105 @@
+body{
+width: 100%;
+height: 100%;
+margin: 0 auto;
+}
+ ul {
+     padding: 0px!important;
+ }
+.menu-principal {
+background-color: 	#556B2F;
+height: 110px;
+height: 110px;
+
+}
+main {
+    margin: 0 auto;
+    width: 980px;
+    float: left;
+    position: relative;
+}
+
+.logo {
+float: left;
+    padding: 16px;
+    width: 75%;
+}
+.redes-sociais ul li {
+    margin-left: 1px;
+    display: inline-block;
+    float: left;
+    list-style: nome;
+    
+
+}
+.redes-sociais {
+    width: 20%;
+    float: right;
+}
+
+.header-2 {
+background-color: rgb(194, 219, 188);
+width: 980px;
+margin: 10 auto;
+padding: 20px;
+
+}
+.menu-urls {
+    height: 80px;
+    border-bottom: 3px solid #ffffff;
+}
+.menu ul li {
+
+    display: inline-block;
+    color: #556B2F ;
+    margin-left: 15px;
+    height: 15px;
+}
+.menu ul li :hover {
+    color: #ffffff;
+    border-bottom: 3px dashed #ffffff ;
+}
+
+
+.menu ul li a {
+    color: #556B2F ;
+    text-decoration: nome;
+    font-size: 15px;
+    text-transform: uppercase;
+  
+}
+
+.menu {
+width: 70%;
+float: lef;
+
+}
+
+.busca{ 
+text-align: center;
+width: 30%;
+float: right
+}
+.busca input {
+
+    height: 36px;
+    padding: 12px;
+    width: 190px;
+    margin-top: -43px;
+}
+
+.col-100 {
+width: 100%;
+float: left;
+position: relative;
+}
+
+.menu-p2 {
+
+    background-color: #556B2F
+    height: 110ps;
+    height: 110px;
+}
+
+
+
